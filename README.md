@@ -4,8 +4,7 @@ Albion-Sniffer-py is a packet Analyzer for Albion Online Client's market data us
 # What can I access with Albion-Sniffer-py?
 The AlbiPy sniffing thread class allows quick and easy access to datapoint directly from the Albion Online client's network traffic. AlbiPy listens on the Albion Online client's UDP socket in order to record and parse information as it is passed to the game client. AlbiPy gives direct access to the following data on every market order sent to the client:
 
-Order Id
-
+Order Id <br />
 Silver Per Unit
 
 Total Silver
