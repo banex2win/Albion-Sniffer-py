@@ -24,7 +24,6 @@ class Sniffer:
             self.process = subprocess.Popen(
                 [
                     r"C:\Program Files\Albion Data Client\albiondata-client.exe",
-                    "-d",
                     "-debug",
                     "-events", "0",
                     "-operations", "75,76",
