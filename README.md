@@ -38,7 +38,7 @@ Note: If you Decide to store the Albion-Data-Project file into another Directory
 3- Download the Albion-Sniffer-py.py File and put in in your Project Folder <br />
 4- The Code is Used As The Following Example: <br />
 ```python
-from Albion-Sniffer-py import *
+from Albion-Sniffer-Py import *
 import time
 
 sniffer = Sniffer()
@@ -74,7 +74,7 @@ for order in orders:
 Alternatively, the collected data, orders can be written to json simply by typecasting the sniffer data object to a string then writing it to file. <br />
 
 ```python
-from Albion-Sniffer-py import *
+from Albion-Sniffer-Py import *
 import time
 
 sniffer = Sniffer()
