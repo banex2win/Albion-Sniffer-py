@@ -108,10 +108,16 @@ ItemTypeId -> This is the item type identifier. Example: Adept's Longbow with 1 
 ItemGroupTypeId -> Same as ItemTypeId without the enchantment difference <br />
 EnchantmentLevel -> The enchantment level of the item being bought or sold if applicable <br />
 QualityLevel -> The quality of the item being bought or sold expressed as an integer if applicable <br />
+Expires -> The expiry date of the order <br />
+ReferenceId -> To be totally honest, I have no idea what this is. Probably something for the backend database I'm not sure. <br />
 
 # Final words
 i would like to thank hrichharms for inspiring me to make this script , you can find his script here: https://github.com/hrichharms/AlbiPy <br />
 further more i would like to Thank all the members Past , Present , And Future for the Albion-Data-Project Decolpment team, non of this would be possible without them <br />
-Expires -> The expiry date of the order <br />
-ReferenceId -> To be totally honest, I have no idea what this is. Probably something for the backend database I'm not sure. <br />
+you can find there Program here: https://www.albion-online-data.com and you can join there discord here: https://discord.gg/TjWdq24 , Please support them Finnacially or Verbally as it helps alot  <br />
+
+# How to Contact Me
+
+you can contact me threw discord at ".banom" or threw gmail at "ignitingvenom@gmail.com" <br />
+this program is absloutly free and no Payment is required what so ever to use it, but if you want to help me my paypal is : mohamed.essam200216@gmail.com
 
