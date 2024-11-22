@@ -113,7 +113,7 @@ ReferenceId -> To be totally honest, I have no idea what this is. Probably somet
 
 # Final words
 i would like to thank hrichharms for inspiring me to make this script , you can find his script here: https://github.com/hrichharms/AlbiPy <br />
-further more i would like to Thank all the members Past , Present , And Future for the Albion-Data-Project Decolpment team, non of this would be possible without them <br />
+further more i would like to Thank all the members Past , Present , And Future for the Albion-Data-Project Devolopment team, non of this would be possible without them <br />
 you can find there Program here: https://www.albion-online-data.com and you can join there discord here: https://discord.gg/TjWdq24 <br />
 Please support them Finnacially here : https://ko-fi.com/aodp2024 or Verbally as it helps alot  <br />
 
