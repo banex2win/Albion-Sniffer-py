@@ -21,11 +21,13 @@ This Script is only Limited by the Data that the Albion-Data-Project gives (whic
 
 # How do i run/use Albion-Sniffer-py?
 1- First you need to download the Albion Data Project which can be found here: https://www.albion-online-data.com or here: https://github.com/ao-data/albiondata-client/releases
+
 2- After Downloading it and Fully Inistalling it -- *IN ITS DEFULT PATH* -- you can now Download the Albion-Sniffer-py and Use it
 Note: If you Decide to store the Albion-Data-Project file into another Directory you will have to change the directory in the Albion-Sniffer-Py.py here:
 ![Untitleds](https://github.com/user-attachments/assets/b15e260e-9396-40a0-9f52-1b90c425e22d)
 
 3- Download the Albion-Sniffer-py.py File and put in in your Project Folder
+
 4- The Code is Used As The Following Example:
 ```python
 from Albion-Sniffer-py import *
